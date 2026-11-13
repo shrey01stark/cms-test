@@ -1,6 +1,15 @@
 window.CONTENT = {
  "publications": [
   {
+   "color": "g1",
+   "image": "./assets/img/uploads/mwf143ibks1b.webp",
+   "tag": "RESEARCH REPORT",
+   "title": "yada yada yada",
+   "text": "bcddbocgdpidc bdbhcidbcd ciochipdhciphpadypdb liducpddbgd djlcipchd dljchdic lcidcbdcljdbnc l,jcndd, didbln jlnc cljvndi djlno,c ljcnd;o khdfjhc;d kd; dodlk jphd;l ;i df kld dbd.cd iph;ohpiuchljd vd;oj;o mcvk b;kbihbdlc",
+   "button": "Explore",
+   "link": "https://www.youtube.com/watch?v=HeeahBMRuVA"
+  },
+  {
    "color": "g8",
    "image": "./assets/img/fmk.jpg",
    "tag": "FRAMEWORK BOOK",
